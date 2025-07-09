@@ -1,1 +1,1 @@
-# api-thoughts
+## The aim of this repo is to create a free to try out new features
